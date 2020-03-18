@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="launch-program:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/launch_program_jar</output-path>
+    <root id="archive" name="launch-program.jar">
+      <element id="module-output" name="launch-program" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,46 @@
+For myself
+- I want my life to have meaning
+- I want to be an expert in my field
+- I want to feel satisfied knowing that I did everything that I possibly could
+- When hearing some professors speak, I'm really impressed at their level of understanding. I want to achieve that too.
+- Goal for 2017 is to get to $200,000/year
+  + This looks like it's changing already
+- You have 2 years to decide what the rest of your life is going to be like. I'm hoping to pursue one of these three:
+  + Get a PhD and become a professor. 
+     -- Depends heavily on CSS Software and/or FCWT success.
+  + Become a software architect. 
+     -- You have 2 years to learn as much about software/hardware as you can.
+  + Get a linguistics degree. Become a linguist. Not sure exactly on the details, but to start off, learn German.
+     -- Learn a new language every 6 months (I know, very ambitious).
+
+For Harrison
+- I want him to be proud of me
+- I want him to have a solid foundation and a role-model to look up to
+- I want him to have a great education (private school)
+
+For Amira
+- I want her to have a relaxed life
+- I want her to be proud of her husband
+
+For my Parents
+- The same way I love Harrison and wish the best for him, I know my parents want the same for me
+- I want my parents to be proud
+
+My Goals
+- Spend as much time with Harrison as possible
+- Read at minimum 50 books in my field
+- Get high A's in classes
+- Read your books daily. Forget about stressing over the news (If reading news, read the computer-related news).
+- Have a successful business/businesses (I know that this is achievable since I'm constantly observing the idiots that are running mega-businesses).
+  + This is also crucial if I want to continue on with my PhD.
+- Continue cycling (For my health. So that I have energy to keep up with Harrison. And you also enjoy it).
+- Become more active with family (This is in works with Dado. It just needs to stop raining so that we can begin our ventures and then include our families).
+- Stop being stupid, get your bank account to $100,000 in savings
+
+Preparing for the Coding Interview
+- Make sure that the resume is 1 page
+- Make sure that you projects written in numerous different languages and frameworks
+- Make sure that you list some of the most impressive, independent (just for fun), projects on your resume
+- Learn and master Big O
+- Master common algorithms
+- 
